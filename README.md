@@ -1,1 +1,1 @@
-# https://gospelbeats.github.io/resume/
+https://gospelbeats.github.io/resume/
