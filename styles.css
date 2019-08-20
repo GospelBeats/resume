@@ -1,0 +1,66 @@
+.bg {
+        background-color:#f1f1f1;
+    }
+    .bg3 {
+        background-color:rgb(35, 35, 90);
+    }
+    img {
+        width:100%;
+        height:auto;
+    }
+    .red {
+        background-color: #921616;
+    }
+    .head {
+        font-family: 'Concert One', cursive;
+    }
+    .text {
+        font-family: 'Barlow Semi Condensed', sans-serif;  
+    }
+    .sign {
+        font-family: 'Kalam', cursive;
+    }
+    .bar {
+        max-width: 600px;
+        margin:auto;
+        background-color: rgb(224, 221, 221);
+        height:2px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+    .bar2 {
+        max-width: 600px;
+        margin:auto;
+        background-color: #921616;
+        height:2px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+    .key {
+        background-image: url("images/keyboard.png");
+        background-size: cover;
+    }
+    .bg-block {
+        background-color:#f8f8f1;
+    }
+    .mb {
+        margin-bottom: 40px;
+    }
+    .padlr {
+        padding-right: 40px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .pad-text {
+        padding: 5px 40px 5px 40px;
+    }
+    .bg-text {
+        background-color:#f6f6f5;
+    }
+    li {
+        list-style-type: none;
+    }
+    li a{
+        text-decoration: none;
+    }
+   
