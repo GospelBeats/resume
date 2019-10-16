@@ -1,5 +1,5 @@
-https://gospelbeats.github.io/resume/
-
+# Website: https://gospelbeats.github.io/resume/
+---------------------------------------------------------------------------
 ![APP Sreenshot](https://github.com/GospelBeats/resume/blob/master/header.JPG)
 ![APP Sreenshot](https://github.com/GospelBeats/resume/blob/master/desc.JPG)
 ![APP Sreenshot](https://github.com/GospelBeats/resume/blob/master/edu.JPG)
